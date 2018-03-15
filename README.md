@@ -1,6 +1,8 @@
 # Data day 2018
 
-Repo for code of Data Day 2018
+![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38141246%2F59603851675%2F1%2Foriginal.jpg?w=800&rect=0%2C85%2C1982%2C991&s=8ae228a4d834937ea34d9da9def5b42d)
+
+## Repositorio del workshop: Ciencia de Datos con Apache Spark y Optimus.
 
 ## Requirements 
 
