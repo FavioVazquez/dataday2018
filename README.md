@@ -12,7 +12,7 @@
 
 `pip install optimuspyspark`
 
-- PySpark > 2.2:
+- PySpark >= 2.2:
 
 `pip install pyspark`
 
