@@ -6,9 +6,13 @@ Repo for code of Data Day 2018
 
 - Python >= 3.5
 - Jupyter.
-- Optimus:
+- Optimus 1.2.5:
 
 `pip install optimuspyspark`
+
+- PySpark > 2.2:
+
+`pip install pyspark`
 
 - Will.
 
