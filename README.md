@@ -12,6 +12,10 @@ Repo for code of Data Day 2018
 
 - Will.
 
+## Slides
+
+[Presentación en PDF](https://github.com/FavioVazquez/dataday2018/blob/master/data-day-2018.pdf)
+
 ## Notebooks
 
 - [Intro to Spark DataFrames](https://github.com/FavioVazquez/dataday2018/blob/master/01_pyspark_df.ipynb)
